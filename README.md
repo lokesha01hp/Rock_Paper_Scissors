@@ -6,8 +6,8 @@ A simple command-line Rock-Paper-Scissors game in Python where you play against 
 ### 1. Clone this repo:
 
 ```bash
-git clone https://github.com/lokesha01hp/Tic_Tac_Toe-2-players-edition
-cd Tic_Tac_Toe-2-players-edition
+git clone https://github.com/lokesha01hp/Rock_Paper_Scissors.git
+cd Rock_Paper_Scissors
 ```
 
 ### 2. Run the script:
